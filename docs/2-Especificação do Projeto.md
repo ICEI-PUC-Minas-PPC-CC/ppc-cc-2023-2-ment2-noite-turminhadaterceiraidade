@@ -8,10 +8,15 @@ Definição do problema e ideia de solução a partir da perspectiva do usuário
 
 Exemplo:
 
-|**Camila Fiães**|           |                             | 
+|**José Antonio Jacinto**|           |                             | 
 |-------------------|-----------|-----------------------------|
-<img src="https://github.com/ICEI-PUC-Minas-PPC-CC/Template-MentoringII/blob/main/docs/img/camilafiaes.png" width="200" height="200"/>|**Idade:** 38 anos. **Naturalidade:** Contagem - Minas Gerais. **Ocupação:** Caixa de Supermercado.       |**Atribuições:** gerenciar operações com clientes usando caixas registradoras. 
-|**Motivações:** Deseja organizar e ter fácil acesso aos documentos médicos do seu filho que tem asma.  |**Frustações:** dificuldade para gerenciar a vida profissional e pessoal, pois, além de trabalhar fora, quando chega em casa tem de desempenhar os papeis de mãe, esposa e dona de casa. Ainda, o seu filho de 09 anos tem asma, portanto necessita de tratamento contínuo e atenção redobrada.   |**Hobbies, história:** almeja conseguir conciliar os diferentes papéis que exerce, pois atualmente está se sentindo extremamente sobrecarregada e por isso busca métodos para otimizar o seu tempo e esforço.
+<img src="https://github.com/ICEI-PUC-Minas-PPC-CC/Template-MentoringII/blob/main/docs/img/camilafiaes.png" width="200" height="200"/>|**Idade:** 59 anos. **Naturalidade:** Cabo Verde - Minas Gerais. **Ocupação:** Motorista de ônibus aposentado.       |**Atribuições:** . 
+|**Motivações:** José deseja manter sua independência o máximo possível enquanto envelhece e deseja ter um acesso aos seus remedios noturnos sem riscos.  |**Frustações:** Ele sofre de dores nas costas crônicas, problemas de circulação nas pernas e pés inchados. José também tem dificuldade em andar devido à rigidez em suas articulações. Além das dores nas costas e problemas de circulação, José também tem algumas condições médicas comuns associadas à idade, como pressão alta e diabetes tipo 2.    |**Hobbies, história:** José gosta de ler, assistir televisão e ouvir música em casa, já que essas atividades são mais acessíveis para ele. Ele também gosta de compartilhar histórias de sua época como motorista de ônibus com seus netos, mantendo viva sua paixão pelo transporte público. Além disso, ele busca maneiras de aliviar suas dores físicas e melhorar sua qualidade de vida, buscando opções de tratamento e terapias alternativas.
+
+|**Tereza Augusta**|           |                             | 
+|-------------------|-----------|-----------------------------|
+<img src="https://github.com/ICEI-PUC-Minas-PPC-CC/Template-MentoringII/blob/main/docs/img/camilafiaes.png" width="200" height="200"/>|**Idade:** 70 anos. **Naturalidade:** Cabo Verde - Minas Gerais. **Ocupação:** Diretora Escolar aposentada.       |**Atribuições:** . 
+|**Motivações:** Deseja usar mais tecnologias e ter fácil acesso as luzes de sua casa (tanto para evitar tropeços quanto para suas leituras)  |**Frustações:** Ela está enfrentando dificuldades relacionadas à sua mobilidade devido à idade avançada. Ela é suscetível a tropeços e quedas, o que a preocupa profundamente, uma vez que lesões nessa idade podem ser perigosas. Ela toma precauções extras ao caminhar e teme perder a independência que valoriza tanto. Ela também luta com problemas de visão relacionados à idade, o que torna a leitura e a escrita mais desafiadoras    |**Hobbies, história:** Tereza gosta de passar seu tempo lendo livros, especialmente romances e biografias. Ela também é apaixonada por jardinagem e cuida de seu jardim com amor e dedicação. Além disso, gosta de manter-se atualizada sobre assuntos educacionais e ainda mantém contato com alguns de seus antigos colegas de trabalho.
 
 Enumere e detalhe as personas da sua solução. Para isso, se necessário, leia um pouco mais sobre o assunto nos seguintes links:
 
@@ -35,8 +40,8 @@ Exemplo:
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Camila Fiães | Otimizar meu tempo e esforço | Conciliar os diferentes papéis que exerço. |
-|Camila Fiães | Ter acesso rápido e completo às informações sobre a doença de seu filho | Passar os detalhes para os médicos. |
+|José Antonio Jacinto | Mais conforto e seguranca   | Trafegar em casa sem tropeços devido as dificuldades. |
+|Tereza Augusta | Ter acesso rápido facil as luzes de sua casa | Praticar seu hobbie favorito que é a leitura |
 
 Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução ou para execução da sua prática extensionista/curso. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação e também para identificar as dores que sua prática extensionista irá minimizar/sanar. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
 
@@ -56,16 +61,21 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| O sistema deverá permitir o gerenciamento dos pacientes | ALTA | 
-|RF-002| O sistema deverá exibir todo histórico de atendimento do paciente   | ALTA |
-
+|RF-001| O sistema deve ser capaz de detectar a presença de pessoas em uma área específica | ALTA | 
+|RF-002| O sistema deve ser preciso na detecção de presença, minimizando falsos positivos e falsos negativos   | ALTA |
+|RF-002| Determine a área ou áreas específicas em que a detecção de presença é necessária   | MEDIA |
+|RF-002| Se necessário, o sistema deve ser capaz de se integrar com outros sistemas   | MEDIA BAIXA |
+|RF-002|  Certifique-se de que o sistema seja compatível com as tecnologias existentes e futuras   | MEDIA |
+|RF-002|  Desenvolva uma interface de usuário intuitiva   | ALTA |
 
 ### Requisitos não Funcionais
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
 |RNF-001| O sistema deve ser responsivo | MÉDIA | 
-|RNF-002| o sistema deve processar requisições do usuário em, no máximo, 3s |  BAIXA | 
+|RNF-001| O sistema deve ser dimensionado | BAIXA |
+|RNF-001| O sistema deve ter Confiabilidade | ALTA |
+|RNF-002| o sistema deve ter Eficiência Energética |  MEDIA | 
 
 Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
 
