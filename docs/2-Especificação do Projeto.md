@@ -10,7 +10,7 @@ Exemplo:
 
 |**José Antonio Jacinto**|           |                             | 
 |-------------------|-----------|-----------------------------|
-<img src="https://github.com/ICEI-PUC-Minas-PPC-CC/Template-MentoringII/blob/main/docs/img/jose1.jpeg" width="200" height="200"/>|**Idade:** 59 anos. **Naturalidade:** Cabo Verde - Minas Gerais. **Ocupação:** Motorista de ônibus aposentado.       |**Atribuições:** . 
+<img src="https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-2-ment2-noite-turminhadaterceiraidade/edit/main/docs/img/jose1.jpeg" width="200" height="200"/>|**Idade:** 59 anos. **Naturalidade:** Cabo Verde - Minas Gerais. **Ocupação:** Motorista de ônibus aposentado.       |**Atribuições:** . 
 |**Motivações:** José deseja manter sua independência o máximo possível enquanto envelhece e deseja ter um acesso aos seus remedios noturnos sem riscos.  |**Frustações:** Ele sofre de dores nas costas crônicas, problemas de circulação nas pernas e pés inchados. José também tem dificuldade em andar devido à rigidez em suas articulações. Além das dores nas costas e problemas de circulação, José também tem algumas condições médicas comuns associadas à idade, como pressão alta e diabetes tipo 2.    |**Hobbies, história:** José gosta de ler, assistir televisão e ouvir música em casa, já que essas atividades são mais acessíveis para ele. Ele também gosta de compartilhar histórias de sua época como motorista de ônibus com seus netos, mantendo viva sua paixão pelo transporte público. Além disso, ele busca maneiras de aliviar suas dores físicas e melhorar sua qualidade de vida, buscando opções de tratamento e terapias alternativas.
 
 |**Tereza Augusta**|           |                             | 
