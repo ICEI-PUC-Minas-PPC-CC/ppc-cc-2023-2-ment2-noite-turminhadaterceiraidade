@@ -1,4 +1,4 @@
-# TÍTULO DO PROJETO
+# PROJETO TURMA DA TERCEIRA IDADE
 
 `PPC-CC: PUC Poços de Caldas - Ciência da Computação`
 `Disciplina: NOME DA DISCIPLINA`
@@ -6,14 +6,15 @@
 
 ## Integrantes
 
-- Jeff Bezos
-- Bill Gates
-- Larry Ellison
-- Mark Zuckerberg
+- Breno Silva
+- Joao Pedro Zaghi
+- Luís Ricardo
+- Vinícius Dias
+- Diogo Jacinto
 
 ## Professor
 
-- Mestre Yoda
+- Luciana 
 
 # Documentação
 
