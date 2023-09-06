@@ -42,6 +42,10 @@ Exemplo:
 |--------------------|------------------------------------|----------------------------------------|
 |José Antonio Jacinto | Mais conforto e seguranca   | Trafegar em casa sem tropeços devido as dificuldades. |
 |Tereza Augusta | Ter acesso rápido facil as luzes de sua casa | Praticar seu hobbie favorito que é a leitura |
+|José Antonio Jacinto | Familia ficar sabendo caso aconteça algo | Apoio e Segurança familiar rapida |
+|Tereza Augusta | Assistência médica rápida | Atendimento de emergencia |
+|José Antonio Jacinto | Notificação de Medicamentos | Evitar atraso ou falta de tomar os medicamentos |
+|Tereza Augusta | Estimulação da leitura por meio de notificação diara | Estimular de forma positiva e prorrogar os problemas de visão |
 
 Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução ou para execução da sua prática extensionista/curso. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação e também para identificar as dores que sua prática extensionista irá minimizar/sanar. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
 
