@@ -1,8 +1,9 @@
 DESCRIÇÃO
+Abajur que funciona
 
 - Link TinkerCad: https://www.tinkercad.com/things/iP6XdmVIctf?sharecode=w_fqT7fOVdWdH7ZO8oyTWnKiCnsnnBzhC5jYtGxeFU0
 
-- Componemtes:
+- Componentes:
   
 1 Lâmpada LED: uma lâmpada LED de baixo consumo de energia para o abajur ou lampada inteligente
 
