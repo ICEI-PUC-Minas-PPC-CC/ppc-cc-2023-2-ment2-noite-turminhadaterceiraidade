@@ -2,6 +2,7 @@ DESCRIÇÃO
 Abajur com lampada inteligente ou lampada led, possuindo modo normal e modo noturmo. Abajur irá acender quando detectar movimento através da reflexão das ondas ultrassônicas emitidas pelo sensor.
 
 - Link TinkerCad: https://www.tinkercad.com/things/iP6XdmVIctf?sharecode=w_fqT7fOVdWdH7ZO8oyTWnKiCnsnnBzhC5jYtGxeFU0
+- Link de um possivel abajur: https://produto.mercadolivre.com.br/MLB-2662284820-abajur-luminaria-de-mesa-sala-quarto-moderno-com-lmpada-_JM?attributes=STRUCTURE_COLOR:U2FsbcOjbw==
 
 - Componentes:
   
